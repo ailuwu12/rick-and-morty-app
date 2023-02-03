@@ -1,0 +1,17 @@
+body {
+  background-image: url("https://images.pond5.com/simple-star-space-background-effect-023768280_prevstill.jpeg");
+   background-attachment: fixed;
+   background-repeat: no-repeat; 
+   background-size: 100%;
+  margin: 0;
+  font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', 'Roboto', 'Oxygen',
+    'Ubuntu', 'Cantarell', 'Fira Sans', 'Droid Sans', 'Helvetica Neue',
+    sans-serif;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+}
+
+code {
+  font-family: source-code-pro, Menlo, Monaco, Consolas, 'Courier New',
+    monospace;
+}
